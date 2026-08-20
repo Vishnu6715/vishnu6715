@@ -1,4 +1,3 @@
-markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=VISHNU%20KUMAR%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=18"/>
