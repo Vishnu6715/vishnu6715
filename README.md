@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vishnu-kumar-v-2261a8320/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -257,10 +257,9 @@ Completed 15 days of in-plant training as a Full Stack Developer trainee.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vishnu-kumar-v-2261a8320/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:vishnukumarvishnukumar919@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
