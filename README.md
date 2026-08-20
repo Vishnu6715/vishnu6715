@@ -1,17 +1,23 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=VISHNU%20KUMAR%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=18"/>
+<!-- HERO HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=VISHNU%20KUMAR%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER%20%7C%20AI%20ENTHUSIAST&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+real-world+projects;Learning+Full+Stack+Development;Exploring+Artificial+Intelligence;Turning+ideas+into+real+projects" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%F0%9F%9A%80;AI+%26+Generative+AI+Enthusiast+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%94%A5;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Improve+%E2%9C%A8" alt="Typing Animation"/>
 
-<br/><br/>
+<br>
 
-<img src="https://img.shields.io/badge/EDUCATION-B.E.%20ECE-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-ERODE%2C%20INDIA-4C1D95?style=for-the-badge"/>
+<!-- PROFILE BADGES -->
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Enthusiast-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software-Engineer-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/India-Tamil%20Nadu-4C1D95?style=for-the-badge"/>
 
-<br/><br/>
+<br><br>
 
+<!-- SOCIAL LINKS -->
 <a href="https://www.linkedin.com/in/vishnu-kumar-v-2261a8320/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -21,23 +27,31 @@
 </a>
 
 <a href="https://github.com/Vishnu6715">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
+
+<!-- QUICK STATS -->
+<img src="https://komarev.com/ghpvc/?username=Vishnu6715&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
 name: VISHNU KUMAR V
-education: B.E. Electronics and Communication Engineering
-role: Full Stack Developer | Software Engineer
+
+role:
+  - Full Stack Developer
+  - Software Engineer
+  - AI Enthusiast
 
 focus:
-  - Full Stack Development
   - Web Application Development
+  - Full Stack Development
   - Artificial Intelligence
 
 currently_learning:
@@ -45,161 +59,327 @@ currently_learning:
   - Generative AI
   - Prompt Engineering
 
-mindset: Learn → Build → Share → Improve
+interests:
+  - Software Development
+  - Artificial Intelligence
+  - Real-World Applications
+  - Problem Solving
 
+mindset:
+  Learn → Build → Share → Improve
+````
 
-Aspiring Full Stack Developer and Software Engineer with hands-on experience
-in web applications through academic projects, internships, and hackathons.
+🚀 Aspiring **Full Stack Developer and Software Engineer** with hands-on
+experience in designing and developing web applications through academic
+projects, internships, and hackathons.
 
-I enjoy building real-world applications, exploring Artificial Intelligence,
-and continuously improving my software development skills.
+💡 I enjoy transforming ideas into practical applications, exploring
+Artificial Intelligence, and continuously improving my technical skills.
+
+🎯 My goal is to grow into a successful software engineering professional
+while building useful and innovative real-world solutions.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,c"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,js,c" />
+
 </p>
 
-### 🎨 Frontend
+`Python` `JavaScript` `C`
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+---
+
+## 🎨 Frontend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
 </p>
 
-### ⚙️ Backend
+`HTML` `CSS` `React.js`
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
 </p>
 
-### 🗄️ Database
+`Node.js` `Express.js`
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
+---
+
+## 🗄️ Database & Cloud
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+
 </p>
 
-### 🤖 AI & Machine Learning
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
-<p>
+`MongoDB` `Supabase` `Firebase`
+
+---
+
+## 🤖 AI & Machine Learning
+
+<p align="left">
+
 <img src="https://img.shields.io/badge/NLP-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=for-the-badge"/>
+
 </p>
 
-### 🔧 Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,netlify"/>
+## 🔧 Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,netlify" />
+
 </p>
 
 <p>
+
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🚀 My Learning Journey
+# 🚀 Featured Projects
 
-```text
-Education
-    ↓
-Programming
-    ↓
-Web Development
-    ↓
-Full Stack Development
-    ↓
-Artificial Intelligence
-    ↓
-Real-World Projects
-    ↓
-Professional Growth
-```
+<div align="center">
 
-> Learn → Build → Share → Improve
+### 🤖 AI-Based Personalized Career Guidance Platform
 
----
+</div>
 
-## ⭐ Featured Projects
-
-### 🤖 Project 01 — AI-Based Personalized Career Guidance Platform
-
-Developed an AI-powered platform that recommends suitable career paths
+An AI-powered platform designed to recommend suitable career paths
 based on students' skills and interests.
 
-**Tech Stack:**
+**Key Focus:**
 
-`Python` `JavaScript` `React.js` `AI`
+* 🎯 Personalized career recommendations
+* 🧠 AI-based analysis
+* 📚 Student skill exploration
+* 🚀 Career path guidance
 
----
+**Technology:**
 
-### ♟️ Project 02 — Unique Eight Queen Challenge Game
-
-Designed and developed a logic-based puzzle game implementing the classic
-Eight Queens algorithm to enhance strategic thinking and problem-solving skills.
-
-**Tech Stack:**
-
-`JavaScript` `HTML` `CSS` `Algorithms`
+`AI` `Python` `JavaScript` `React.js`
 
 ---
 
-### 🗣️ Project 03 — Tamil AI Chatbot for Health Tips
+<div align="center">
 
-Built an NLP-based chatbot that provides personalized health guidance
-in Tamil through conversational interaction.
+### ♟️ Unique Eight Queen Challenge Game
 
-**Tech Stack:**
+</div>
+
+A logic-based puzzle game implementing the classic **Eight Queens
+algorithm**, designed to improve strategic thinking and problem-solving.
+
+**Key Focus:**
+
+* ♟️ Eight Queens algorithm
+* 🧠 Logical thinking
+* 🎮 Interactive puzzle experience
+* 💡 Algorithm implementation
+
+**Technology:**
+
+`HTML` `CSS` `JavaScript` `Algorithms`
+
+---
+
+<div align="center">
+
+### 🗣️ Tamil AI Chatbot for Health Tips
+
+</div>
+
+An NLP-based chatbot that provides personalized health guidance in
+Tamil through conversational interaction.
+
+**Key Focus:**
+
+* 🗣️ Tamil conversational interaction
+* 🤖 NLP
+* 💬 AI chatbot
+* 🌐 Tamil language support
+
+**Technology:**
 
 `Python` `NLP` `Generative AI` `Prompt Engineering`
 
 ---
 
-## 🏆 Achievements
+<div align="center">
 
-### 🥇 First Prize — World Creativity and Invention Day
+### 🧳 Smart Trip Planner
 
-Kongu Engineering College — Developed and presented the
-**Unique Eight Queen Challenge Game**, demonstrating algorithm design
-and problem-solving skills.
+</div>
 
-### 🥇 First Prize — 24-Hour National Hackathon
+An innovative travel planning solution developed during a
+**24-hour National Hackathon**, featuring optimized route planning
+and efficient trip management.
 
-Government College of Engineering, Erode — Developed **Smart Trip Planner**,
-an innovative travel planning solution featuring optimized route planning
+**Technology:**
+
+`Web Development` `Route Planning` `Problem Solving`
+
+---
+
+<div align="center">
+
+### 🏠 Hostel Allocation Management System
+
+</div>
+
+A web-based application designed to streamline hostel room allocation
+and student accommodation management.
+
+**Technology:**
+
+`HTML` `CSS` `JavaScript` `Web Development`
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Achievement      | Event                                                                 |
+| ------------------- | --------------------------------------------------------------------- |
+| 🥇 **First Prize**  | World Creativity and Invention Day — Kongu Engineering College        |
+| 🥇 **First Prize**  | 24-Hour National Hackathon — Government College of Engineering, Erode |
+| 🥈 **Second Prize** | TECHIST Project Presentation — Kongu Engineering College              |
+| 🥉 **Third Prize**  | Project Presentation — PSG College of Technology                      |
+
+</div>
+
+### 🥇 World Creativity and Invention Day
+
+Developed and presented the **Unique Eight Queen Challenge Game**,
+demonstrating algorithm design and problem-solving skills.
+
+### 🥇 24-Hour National Hackathon
+
+Developed **Smart Trip Planner**, featuring optimized route planning
 and efficient trip management under strict time constraints.
 
-### 🥈 Second Prize — TECHIST Project Presentation
+### 🥈 TECHIST Project Presentation
 
-Kongu Engineering College — Developed and presented the
-**Tamil AI Chatbot for Health Tips**, an NLP-based application providing
-personalized healthcare guidance in Tamil.
+Developed and presented the **Tamil AI Chatbot for Health Tips**,
+an NLP-based application providing personalized healthcare guidance
+in Tamil.
 
-### 🥉 Third Prize — Project Presentation
+### 🥉 Project Presentation — PSG College of Technology
 
-PSG College of Technology — Designed and presented the
-**Hostel Allocation Management System**, a web-based application for
-streamlining hostel room allocation and student accommodation management.
-
----
-
-## 📜 Certifications & Training
-
-* NCC 'A' Certificate — Leadership, Teamwork, Discipline & Communication Skills
-* Data Analysis Certification — Data Visualization, Statistical Analysis & Data Interpretation
-* Mobile Application Development using Flutter
-* MATLAB Onramp — MathWorks
-* Full Stack Developer Internship — Code Alpha
-* Full Stack Developer In-Plant Training — Exter Tech Solutions
+Designed and presented the **Hostel Allocation Management System**,
+a web-based application for hostel room allocation and student
+accommodation management.
 
 ---
 
-## 🎯 Current Focus
+# 💼 Internship & Training
+
+## 👨‍💻 Full Stack Developer Intern — Code Alpha
+
+Completed a **1-month internship** as a Full Stack Developer Intern.
+
+---
+
+## 🏢 Full Stack Developer Trainee — Exter Tech Solutions
+
+Completed **15 days of in-plant training** as a Full Stack Developer
+trainee.
+
+---
+
+# 📜 Certifications
+
+* 🏅 NCC 'A' Certificate
+* 📊 Data Analysis Certification
+* 📱 Mobile Application Development using Flutter
+* 📐 MATLAB Onramp
+* 💻 Full Stack Developer Internship
+* 🏢 Full Stack Developer In-Plant Training
+
+### Skills Developed Through Certifications
+
+`Leadership` `Teamwork` `Discipline` `Communication`
+`Data Visualization` `Statistical Analysis` `Data Interpretation`
+`Flutter` `MATLAB`
+
+---
+
+# 📚 Education
+
+### 🎓 Higher Secondary Certificate — HSC
+
+**CSI Boys Higher Secondary School, Erode**
+
+**69% | 2022–2023**
+
+---
+
+### 🏫 Secondary School Leaving Certificate — SSLC
+
+**CSI Boys Higher Secondary School, Erode**
+
+**75% | 2019–2020**
+
+---
+
+# 🧭 My Learning Journey
+
+```text
+                    🎓 EDUCATION
+                         │
+                         ▼
+                  💻 PROGRAMMING
+                         │
+                         ▼
+              🌐 WEB DEVELOPMENT
+                         │
+                         ▼
+             ⚙️ FULL STACK DEVELOPMENT
+                         │
+                         ▼
+                🤖 ARTIFICIAL INTELLIGENCE
+                         │
+                         ▼
+                  🚀 REAL PROJECTS
+                         │
+                         ▼
+              🏆 HACKATHONS & ACHIEVEMENTS
+                         │
+                         ▼
+                💼 PROFESSIONAL GROWTH
+```
+
+> **Learn → Build → Share → Improve**
+
+---
+
+# 🔥 Current Focus
 
 ```yaml
 learning:
@@ -210,10 +390,12 @@ learning:
 building:
   - AI-powered applications
   - Real-world web applications
+  - Innovative software projects
 
 exploring:
   - Artificial Intelligence
   - Modern Web Technologies
+  - Software Engineering
 
 goal:
   - Become a successful Software Engineering professional
@@ -222,46 +404,68 @@ goal:
 
 ---
 
-## 💼 Internship & Practical Experience
-
-### Full Stack Developer Intern — Code Alpha
-
-Completed a 1-month internship as a Full Stack Developer Intern.
-
-### Full Stack Developer Trainee — Exter Tech Solutions
-
-Completed 15 days of in-plant training as a Full Stack Developer trainee.
-
----
-
-## 📊 GitHub
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Vishnu6715">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Vishnu6715&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu6715&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu6715&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 💡 Developer Mindset
+
+<div align="center">
+
+### 💭 "Every project is an opportunity to learn something new."
+
+<br>
+
+<img src="https://img.shields.io/badge/Code-💻-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learn-📚-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Build-🚀-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Grow-📈-A855F7?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vishnu-kumar-v-2261a8320/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
+
 <a href="mailto:vishnukumarvishnukumar919@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://github.com/Vishnu6715">
 <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -273,13 +477,13 @@ Completed 15 days of in-plant training as a Full Stack Developer trainee.
 
 <div align="center">
 
-### 🚀 Keep Building. Keep Learning. Keep Growing.
+# 🚀 Keep Building. Keep Learning. Keep Growing.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80;Exploring+AI+%26+Modern+Technologies+%F0%9F%A4%96;One+Project+At+A+Time+%E2%9C%A8" alt="Footer Animation"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer"/>
 
 </div>
 ```
